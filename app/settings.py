@@ -78,7 +78,7 @@ DATABASES = {
         'NAME': 'dbovm4gdrr4sgj',
         'HOST': 'ec2-54-158-247-97.compute-1.amazonaws.com',
         'PORT': 5432, 
-        'USER': 'rrjxcrlezindxy',
+        'USER': 'rrjxcrlezsouindxy',
         'PASSWORD': 'a66caf3df01a0406be5bba0502bb44b0488b21375fbe4b1bbdefcc2c552cf496', 
     }
 }
