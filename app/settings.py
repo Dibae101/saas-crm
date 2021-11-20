@@ -70,6 +70,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'app.wsgi.application'
 
 
+
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
@@ -83,8 +84,6 @@ DATABASES = {
         'PASSWORD': 'a66caf3df01a0406be5bba0502bb44b0488b21375fbe4b1bbdefcc2c552cf496', 
     }
 }
-
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
